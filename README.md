@@ -1,0 +1,2 @@
+# Genel-odevler-vs
+sdfsdf
