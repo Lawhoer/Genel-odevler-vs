@@ -31,7 +31,7 @@
 ### 6)Labirent
 >Labirent yaratmıyor ama çıkışı buluyor bu arkadaş stack queue işlenen haftanın ödevi
 ```
-    İlk bulunduğu indexten itibaren sürekli 4 köşesini kontrol edip cıkış olan yerler arasında öncelikli 
+     İlk bulunduğu indexten itibaren sürekli 4 köşesini kontrol edip cıkış olan yerler arasında öncelikli 
   cıkışı bulup o tarafa doğru yol ilerliyor her ilerlemede bulundugu indexte "b" harf izini bırakıp bunu
   bir class'a ordan da stack'e kaydediyor taa kiyol tıkanana kadar eger etrafında olası gidelebilecek yer
   yoksa stack'e kaydettiği önceki hareketlerini geri alıyor ve tek tek ilkolası farklı yola kadar geri 
