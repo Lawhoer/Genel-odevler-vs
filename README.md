@@ -38,3 +38,9 @@
  gidiyor ve önceki gittiği yönün girişini tıkıyor bu "y" harfi yani çıkışı bulana kadar devam ediyor 
  sonrasında bunu txt'e yazdırıyor ki adım adım işlemleri exe dosyasında görebilirsiniz
 ```
+### 7)Kök bulma
+>Haftanın lineer olmayan ve analatit çözümü olmayan tek bilinmeyenli debklemlerin kökünü bulma ödevi :d
+```
+![soru]()
+```
+
