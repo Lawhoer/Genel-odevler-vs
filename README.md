@@ -44,6 +44,6 @@
 ![soru](https://github.com/Lawhoer/Genel-odevler-vs/blob/main/7-K%C3%B6k%20bulma/soru.png)
 
 ```
-Klasik sorunun matematik çözümlerini bu soruya özel çözümü bulana kadar tekrarlıyor
+Klasik sorunun matematik çözümlerini bu soruya özel, çözümü bulana kadar tekrarlıyor
 ```
 
