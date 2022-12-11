@@ -39,12 +39,12 @@
  sonrasında bunu txt'e yazdırıyor ki adım adım işlemleri exe dosyasında görebilirsiniz
 ```
 ### 7)Kök bulma
->Haftanın lineer olmayan ve analatit çözümü olmayan tek bilinmeyenli debklemlerin kökünü bulma ödevi :d
+>Haftanın lineer olmayan ve analatit çözümü olmayan tek bilinmeyenli debklemlerin kökünü bulma ödevi
 
 ![soru](https://github.com/Lawhoer/Genel-odevler-vs/blob/main/7-K%C3%B6k%20bulma/soru.png)
 
 ```
-Haftanın ödevi gibi bir şey soruyu elle çözmek zor olucagından kodla yapın dedi :d, kod ne yapıyor dersseniz
+Haftanın ödevi gibi bir şey soruyu elle çözmek zor olucagından kodla yapın dedi :d, kod ne yapıyor derseniz
 pek bir özelliği yok soruya özel tek seferlik çözüm: klasik formülleri tekrarlıyor.
 ```
 
