@@ -31,6 +31,8 @@
 ### 6)Labirent
 >Labirent yaratmıyor ama çıkışı buluyor bu arkadaş stack queue işlenen haftanın ödevi
 ```
+Haftanın ödevi gibi bir şey soruyu elle çözmek zor olucagından kodla yapın dedi :d, kod ne yapıyor derseni pek bir özelliği yok soruya özel tek seferlik çözüm.
+```
     İlk bulunduğu indexten itibaren sürekli 4 köşesini kontrol edip cıkış olan yerler arasında öncelikli 
  cıkışı bulup o tarafa doğru yol ilerliyor her ilerlemede bulundugu indexte "b" harf izini bırakıp bunu
  bir class'a ordan da stack'e kaydediyor taa kiyol tıkanana kadar eger etrafında olası gidelebilecek yer
@@ -42,5 +44,7 @@
  >Haftanın lineer olmayan ve analatit çözümü olmayan tek bilinmeyenli debklemlerin kökünü bulma ödevi :d
 
 ![soru](https://github.com/Lawhoer/Genel-odevler-vs/blob/main/7-K%C3%B6k%20bulma/soru.png)
-
+```
+Haftanın ödevi gibi bir şey soruyu elle çözmek zor olucagından kodla yapın dedi :d, kod ne yapıyor derseni pek bir özelliği yok soruya özel tek seferlik çözüm.
+```
 
