@@ -40,6 +40,6 @@
 ```
 ### 7)Kök bulma
 >Haftanın lineer olmayan ve analatit çözümü olmayan tek bilinmeyenli debklemlerin kökünü bulma ödevi :d
-![soru](https://github.com/Lawhoer/Genel-odevler-vs/blob/main/7)K%C3%B6k%20bulma/.jpeg)
+![soru](https://github.com/Lawhoer/Genel-odevler-vs/blob/main/7)K%C3%B6k%20bulma/soru.png)
 
 
