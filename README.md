@@ -47,8 +47,7 @@
 Klasik sorunun matematik çözümlerini bu soruya özel, çözümü bulana kadar tekrarlıyor
 ```
 ### 8)Stack Sıralama
-
-Bu haftalık stack sorusu
+>Bu haftalık stack sorusu
 ```
 Kırık yumurta sorusu bir dizi yumurta alıyoruz ki burda onlar harfler oluyor kırık olanlar "y" şeklinde 
 saglam olanlarsa rastgele başka harfler kırık olanları stack'te en üste alıp en son cıktı olark yazdırma 
