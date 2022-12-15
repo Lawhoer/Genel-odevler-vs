@@ -39,8 +39,11 @@
  sonrasında bunu txt'e yazdırıyor ki adım adım işlemleri exe dosyasında görebilirsiniz
 ```
 ### 7)Kök bulma
- >Haftanın lineer olmayan ve analatit çözümü olmayan tek bilinmeyenli debklemlerin kökünü bulma ödevi :d
+>Haftanın lineer olmayan ve analatit çözümü olmayan tek bilinmeyenli debklemlerin kökünü bulmanın iki yolu ödevi :d
 
-![soru](https://github.com/Lawhoer/Genel-odevler-vs/blob/main/7)K%C3%B6k%20bulma/soru.png)
+![soru](https://github.com/Lawhoer/Genel-odevler-vs/blob/main/7-K%C3%B6k%20bulma/soru.png)
 
+```
+Klasik sorunun matematik çözümlerini bu soruya özel, çözümü bulana kadar tekrarlıyor
+```
 
