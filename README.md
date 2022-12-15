@@ -50,7 +50,8 @@ Klasik sorunun matematik çözümlerini bu soruya özel, çözümü bulana kadar
 
 Bu haftalık stack sorusu
 ```
-Kırık yumurta sorusu bir dizi yumurta alıyoruz ki burda onlar harfler oluyor kırık olanlar "y" şeklinde saglam olanlarsa rastgele başka harfler kırık olanları stack'te en üste alıp en son cıktı olark yazdırma üzerine bir soru
+Kırık yumurta sorusu bir dizi yumurta alıyoruz ki burda onlar harfler oluyor kırık olanlar "y" şeklinde saglam 
+olanlarsa rastgele başka harfler kırık olanları stack'te en üste alıp en son cıktı olark yazdırma üzerine bir soru
 ```
 
 
