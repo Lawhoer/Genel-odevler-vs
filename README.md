@@ -53,5 +53,11 @@ Kırık yumurta sorusu bir dizi yumurta alıyoruz ki burda onlar harfler oluyor 
 saglam olanlarsa rastgele başka harfler kırık olanları stack'te en üste alıp en son cıktı olark yazdırma 
 üzerine bir soru
 ```
+### 9)Queue
+>Kütüphanesiz hali
+```
+İlerde geri dönüp bakarsam diye koyuyom buraya
+```
+
 
 
